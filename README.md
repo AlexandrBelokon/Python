@@ -4,4 +4,4 @@
 
 Номер проекта | Название и ссылка | О чем проект | Используемые библиотеки |
 --- | --- | --- | --- |
-1 | [Функция_расчета_Retention](https://nbviewer.org/github/AlexandrBelokon/Python/blob/main/retention.ipynb "Функция расчета Retention (дневной/недельный/месячный)") | Функция для подсчета retention возвращает таблицу с retention для выбраного типа когорты и интервала. |`pandas, numpy`|
+1 | [Функция расчета Retention](https://nbviewer.org/github/AlexandrBelokon/Python/blob/main/retention.ipynb "Функция расчета Retention (дневной/недельный/месячный)") | Функция для подсчета retention возвращает таблицу с retention для выбраного типа когорты и интервала. |`pandas, numpy`|
